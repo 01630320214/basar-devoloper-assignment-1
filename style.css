@@ -1,0 +1,91 @@
+body -h1{
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.top-banner{
+    background-image: url(images/donation9.jpg);
+    height: 10%;
+    width: 10%px;
+    color:rgb(248, 241, 224);
+    text-emphasis:center;
+    margin: 0px;
+    font-size: 30px;
+    background-image: no-repet ;
+}
+
+#com{
+    background-color: rgb(223, 123, 138);
+    border: 8px solid orange;
+    height: 90px;
+    width: 255px;
+    border-radius: 7px;
+    text-align: center;
+    font-size:30px;
+}
+
+
+span{
+    background-color:lightcyan ;
+    float: left;
+    width: 25%;
+    padding: 20px 10px;
+    margin-left:10px;
+    border-radius:5px;
+    font-size: 50px;
+    text-align: center;font-size:30px;
+
+}
+#div2{
+    background-color: #d3d3d3;
+    float: left;
+    width: 10%;
+    padding: 20px;
+    margin:10px 20px;
+    border-radius:5px;
+    font-size: 50px;
+    text-align: center;
+    font-size:30px;
+
+}
+#pink{
+    background-color: lightpink;
+    border: 5px solid orange;
+    height: 30px;
+    width: 240px;
+    border-radius: 7px;
+    text-align: center;
+    font-size:30px;
+}
+#div4{
+    background-color: lightgrey;
+    float: left;
+    
+    width: 10%;
+    padding: 20px;
+    margin:10px 20px;
+    border-radius:5px;
+    font-size: 50px;
+    text-align: center;
+}
+#taka{
+    background-color: lightpink;
+    border: 5px solid orange;
+    height: 90px;
+    width: 255px;
+    border-radius: 5px;
+    text-align: center;
+    font-size:30px;
+}
+.flexible-container{
+    display:flex;
+    flexible-container:center;
+    white-space: 20px;
+    height: fit-content;
+    
+}
+.what{
+    border: 2px; 
+    padding-bottom:5px;
+    
+}
